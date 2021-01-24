@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://vasiliy:voloshin@cluster0.1h6i5.mongodb.net/social-media?retryWrites=true&w=majority" 
+}
